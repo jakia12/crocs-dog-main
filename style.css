@@ -421,8 +421,8 @@ a {
     max-width: 400px;
     border-radius: 10px;
     margin: auto;
-    background-color: #524034;
-    color: #ffffff;
+    background-color: #fff;
+    color: #c04370;
     cursor: pointer;
     padding: 0 35px;
     text-align: center;
@@ -440,7 +440,7 @@ a {
   }
 
   .navigation-bar {
-    background-color: #524034;
+    background-color: #fff;
     padding: 10px 20px;
     display: flex;
     justify-content: center;
